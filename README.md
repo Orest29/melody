@@ -1,2 +1,2 @@
-# melody
+# melody project
 навчальний проект
